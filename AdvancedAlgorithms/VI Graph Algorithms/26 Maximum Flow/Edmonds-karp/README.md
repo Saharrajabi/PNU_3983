@@ -55,5 +55,7 @@
     until pred[t] = null  (i.e., until no augmenting path was found)
     return flow
 
-
+- [فیلم های آموزشی مرتبط با الگوریتم ](https://youtu.be/Tl90tNtKvxs)
+- [فیلم آموزشی مرتبط با الگوریتم ](https://youtu.be/SqGeM3FYkfo)
+- [Wikipedia](https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm)
 
