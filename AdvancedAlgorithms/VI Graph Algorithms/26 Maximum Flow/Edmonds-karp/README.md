@@ -58,4 +58,4 @@
 - [فیلم های آموزشی مرتبط با الگوریتم ](https://youtu.be/Tl90tNtKvxs)
 - [فیلم آموزشی مرتبط با الگوریتم ](https://youtu.be/SqGeM3FYkfo)
 - [Wikipedia](https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm)
-
+- [پاورپوینت اموزش دانشگاه های خارجی ](http://uupload.ir/view/0e12_c13maxflow.ppt/)
